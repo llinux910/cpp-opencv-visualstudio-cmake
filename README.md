@@ -2,6 +2,7 @@
 opencv링크된 vs cpp프로젝트 생성
 
 opencv버전 : OpenCV – 4.8.0
+
 생성될 vs버전 : 2022
 
 ## Required installation tasks
