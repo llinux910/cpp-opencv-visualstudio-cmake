@@ -1,9 +1,9 @@
 ## description:
-opencv링크된 vs cpp프로젝트 생성
+Create a "visual studio cpp" project linked to "opencv"
 
-opencv버전 : OpenCV – 4.8.0
+OPENV Version: 4.8.0
 
-생성될 vs버전 : 2022
+Visual Studio Version: 2022 Community 
 
 ## Required installation tasks
 
@@ -21,7 +21,7 @@ opencv버전 : OpenCV – 4.8.0
 
 
 ## Verified operating systems 
-윈도우10 64bit
+windows10 64bit
 
 ## build 
-build.bat 실행
+run build.bat
