@@ -15,7 +15,7 @@ Visual Studio Version: 2022 Community
 
 [cmake](https://github.com/Kitware/CMake/releases/download/v3.27.0-rc4/cmake-3.27.0-rc4-windows-x86_64.msi)
 
--check "Add CMake to the system PATH for all users"
+- check "Add CMake to the system PATH for all users"
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmzacM%2FbtqBUz0DFvs%2FXKX8wMd4QxbqhbzVugKkG1%2Fimg.png)
 
