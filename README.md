@@ -8,7 +8,11 @@ opencv버전 : OpenCV – 4.8.0
 ## Required installation tasks
 
 [7.zip](https://www.7-zip.org/a/7z2301-x64.exe)
+
+
 [vs2022 64bit](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+
+
 [cmake](https://github.com/Kitware/CMake/releases/download/v3.27.0-rc4/cmake-3.27.0-rc4-windows-x86_64.msi)
 
 
