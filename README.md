@@ -1,7 +1,7 @@
 ## description:
 Create a "visual studio cpp" project linked to "opencv"
 
-OPENV Version: 4.8.0
+Opencv Version: 4.8.0
 
 Visual Studio Version: 2022 Community 
 
